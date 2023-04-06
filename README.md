@@ -1,10 +1,7 @@
-
 <h1 align="center">
-   Promotor App (Old Version)
+   Esterilizadoras App
 </h1>
 <div align="center">
-  
-  ![Discontinued version](https://img.shields.io/static/v1?style=flat-square&logo=build&logoColor=white&label=Version&message=Discontinued&color=red)
 
   ![Package Manager](https://img.shields.io/static/v1?style=flat-square&logo=npm&logoColor=white&label=Npm&message=9.4.0&color=C53635)
 
@@ -46,6 +43,9 @@ O projeto foi desenvolvido usando as linguagens e ferramentas abaixo.
 - [x] Scaneamento de produtos
 - [x] Scaneamento de caixas
 - [x] Scaneamento de requisições
+- [x] Visualização e checagem de rotas de coletas
+- [x] Histórico de rotas realizadas
+- [x] Coleta de caixas 
 
 </br></br></br>
 <p align="center">
