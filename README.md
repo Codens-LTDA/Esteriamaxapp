@@ -33,6 +33,9 @@ O projeto foi desenvolvido usando as linguagens e ferramentas abaixo.
 
     # Iniciar aplicação
     $ npm start
+
+    #Bundle da aplicação em dispositivo 
+    $ npx react-native run-android --variant=debug --deviceId <deviceId>
 ```
 
 ## Funcionalidades 
